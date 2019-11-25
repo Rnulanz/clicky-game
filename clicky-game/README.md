@@ -1,4 +1,4 @@
-                                        #### Clicky-Game
+###                                           Clicky-Game
 
                                         Can you remember the order.
 
@@ -6,20 +6,20 @@
 ![Click ME](./public/README.gif)
 
 # REACT APP
-    * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
-### `npm start`
+### npm start
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Dependencies: 
-    *bootstrap*
-    *gh-pages*
-    *react*
-    *react-dom*
-    *react-font-face*
-    *react-scripts* 
+*   bootstrap
+*   gh-pages
+*   react
+*   react-dom
+*   react-font-face
+*   react-scripts
 
 ## Instructions
 
