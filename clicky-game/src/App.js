@@ -72,7 +72,7 @@ class App extends Component {
   }
 
   resetGame = () => {
-    this.state.friends.forEach((image) => {
+    this.state.friends.map((image) => {
       image.cliked = false;
     })
     this.setState({ score: 0 })
