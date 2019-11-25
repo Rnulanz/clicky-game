@@ -3,7 +3,7 @@
                                         Can you remember the order.
 
 
-![Image description](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjP57b5o4TmAhUEIKwKHbqcBe0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.thewarehouse.co.nz%2Fcustomer-service%2Fclick-and-collect.html&psig=AOvVaw1JgT6yB8L8ZIsqNrTku4xb&ust=1574734130924400)
+![Image description](/public/README.gif)
 
 # REACT APP
     * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
