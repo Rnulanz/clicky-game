@@ -3,7 +3,7 @@
                                         Can you remember the order.
 
 
-![Image description](/public/README.gif)
+![Click ME](./public/README.gif)
 
 # REACT APP
     * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
