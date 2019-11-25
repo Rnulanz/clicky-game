@@ -5,6 +5,10 @@
 
 ![Click ME](./public/README.gif)
 
+## DEMO
+
+https://rnulanz.github.io/clicky-game/
+
 # REACT APP
     This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
