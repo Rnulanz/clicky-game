@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "image": "https://idigitalcitizen.files.wordpress.com/2009/10/cleveland_browns-football.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fchi.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "http://1.bp.blogspot.com/-rbxVJeyseJQ/Uup2ztzPnvI/AAAAAAAAF8k/nTIjaoIBKAI/s1600/Baltimore_Ravens.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "http://prod.static.patriots.clubs.nfl.com/nfl-assets/img/gbl-ico-team/NE/logos/home/large.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://idigitalcitizen.files.wordpress.com/2009/06/atlanta-falcons-laser-1600x1200.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "http://1.bp.blogspot.com/-6Hp_cwMM38Y/Uup29aAhpiI/AAAAAAAAGAI/pWwEslffBkI/s1600/Seattle_Seahawks_2012c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/originals/9c/39/99/9c399916f654061e016c433c5355d585.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "http://prod.static.eagles.clubs.nfl.com/nfl-assets/img/gbl-ico-team/PHI/logos/home/large.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/originals/7a/05/dc/7a05dcd2ceda08256c89a16eafed7b2c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://tse3.mm.bing.net/th?id=OIP.l-OYAtsr6pqkMlejUxEgHQHaEo&pid=Api&P=0&w=262&h=165",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "http://4.bp.blogspot.com/-PWILC5hejnA/Uup2-ybWygI/AAAAAAAAGAs/Q56KzqPINig/s1600/Washington_Redskins.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://idigitalcitizen.files.wordpress.com/2009/10/buffalo_bills_red.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "https://hcscouting.files.wordpress.com/2013/09/pittsburgh-steelers-wallpaper1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "https://idigitalcitizen.files.wordpress.com/2009/06/carolina-panthers-steel.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "http://3.bp.blogspot.com/-i5C050--xvw/Uup21iOXhQI/AAAAAAAAF98/nlBl3G0ksiU/s1600/Dallas_Cowboys.jpg",
+        "clicked": false
+    }
+]
